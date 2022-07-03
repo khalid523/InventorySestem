@@ -1,0 +1,13 @@
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\obj\Debug\netcoreapp3.1\InventoryBusiness Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\obj\Debug\netcoreapp3.1\InventoryBusiness Logic.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\obj\Debug\netcoreapp3.1\InventoryBusiness Logic.AssemblyInfo.cs
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\obj\Debug\netcoreapp3.1\InventoryBusiness Logic.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\bin\Debug\netcoreapp3.1\InventoryBusiness Logic.deps.json
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\bin\Debug\netcoreapp3.1\InventoryBusiness Logic.dll
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\bin\Debug\netcoreapp3.1\InventoryBusiness Logic.pdb
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\bin\Debug\netcoreapp3.1\InventoryDataAccess.dll
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\bin\Debug\netcoreapp3.1\InventoryDataAccess.pdb
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\obj\Debug\netcoreapp3.1\InventoryBusiness Logic.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\obj\Debug\netcoreapp3.1\InventoryBusiness Logic.csproj.CopyComplete
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\obj\Debug\netcoreapp3.1\InventoryBusiness Logic.dll
+C:\inetpub\wwwroot\InventorySystem\InventoryBusiness Logic\obj\Debug\netcoreapp3.1\InventoryBusiness Logic.pdb
